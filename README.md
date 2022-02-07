@@ -4,3 +4,4 @@
 - Bisection
 - Regula Falsi (False Position)
 - Fixed Point
+- Newton-Raphson
