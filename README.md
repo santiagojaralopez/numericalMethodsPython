@@ -1,2 +1,4 @@
-# numericalMethodsPython
-Numerical Methods implemented with Python
+# Numerical Methods using Python
+
+### Root-finding methods:
+- Bisection
