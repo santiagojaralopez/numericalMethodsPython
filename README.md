@@ -6,3 +6,6 @@
 - Fixed Point
 - Newton-Raphson
 - Secant
+
+### Nonlinear equations
+- Newton-Raphson
