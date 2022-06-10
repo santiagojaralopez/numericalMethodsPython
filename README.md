@@ -27,7 +27,7 @@
 - Trapezoidal Rule
 - Trapezoidal Rule Multiple Application
 
-### Ordinaty Differentiation Equations
+### Ordinary Differentiation Equations
 - Euler Method
 - Second Order Runge-Kutta case 1
 - Order 4 Runge-Kutta
